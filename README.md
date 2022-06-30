@@ -8,6 +8,6 @@ Um aplicativo meteorológico para obter a temperatura, as condições climática
 ✔️ Ao pressionar enter, o usuário envia o nome da cidade que atualiza o DOMícone de temperatura, condição do tempo, imagem do dia ou da noite e condição do tempo.
 
 ## Resgate sua CHAVE API aqui.🔑🔑
-- [accuweather](https://developer.accuweather.com/)
+- [accuweather](https://developer.accuweather.com/)<p>
 
 ![screen-capture (4)](https://user-images.githubusercontent.com/95660275/176697066-8be5523e-e481-473f-8749-18a48ffa095a.gif)
