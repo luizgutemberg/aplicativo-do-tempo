@@ -10,4 +10,4 @@ Um aplicativo meteorológico para obter a temperatura, as condições climática
 ## Resgate sua CHAVE API aqui.🔑🔑
 - [accuweather](https://developer.accuweather.com/)
 
-![print da tela](https://user-images.githubusercontent.com/95660275/176694404-32848b28-32c7-4fb8-9159-f7c07e18eacf.png)
+![screen-capture (4)](https://user-images.githubusercontent.com/95660275/176697066-8be5523e-e481-473f-8749-18a48ffa095a.gif)
